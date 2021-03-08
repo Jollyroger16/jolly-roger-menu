@@ -1,0 +1,44 @@
+[
+  {
+    "categoryName": "Категория 1",
+    "categoryId": "cat-1",
+    "items": [
+      {
+        "title": "Блюдо1",
+        "description": "Описание Блюда 1",
+        "price": "100грн",
+        "volume": "0.43ml"
+      },
+      {
+        "title": "Блюдо2",
+        "description": "Описание Блюда 2",
+        "price": "120грн",
+        "volume": "0.11ml"
+      }
+    ]
+  },
+  {
+    "categoryName": "Категория 2",
+    "categoryId": "cat-2",
+    "items": [
+      {
+        "title": "Блюдо1",
+        "description": "Описание Блюда 1",
+        "price": "1111грн",
+        "volume": "1l"
+      },
+      {
+        "title": "Блюдо2",
+        "description": "Описание Блюда 2",
+        "price": "5грн",
+        "volume": "0.1ml"
+      },
+      {
+        "title": "Блюдо 3",
+        "description": "Описание Блюда 3",
+        "price": "505грн",
+        "volume": "0.66ml"
+      }
+    ]
+  }
+]
