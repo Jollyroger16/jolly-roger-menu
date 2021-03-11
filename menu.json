@@ -1,19 +1,19 @@
 [
   {
-    "categoryName": "Категория 1",
-    "categoryId": "cat-1",
+    "categoryName": "Виски",
+    "categoryId": "whiskey",
     "items": [
       {
-        "title": "Блюдо1",
-        "description": "Описание Блюда 1",
-        "price": "100грн",
-        "volume": "0.43ml"
+        "title": "Ballantine”s",
+        "description": "",
+        "price": "54₴",
+        "volume": "50мл"
       },
       {
-        "title": "Блюдо2",
-        "description": "Описание Блюда 2",
-        "price": "120грн",
-        "volume": "0.11ml"
+        "title": "Black&White",
+        "description": "",
+        "price": "40₴",
+        "volume": "50мл"
       }
     ]
   },
