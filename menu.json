@@ -14,31 +14,92 @@
         "description": "",
         "price": "40₴",
         "volume": "50мл"
+      },
+      {
+        "title": "William Lawson”s",
+        "description": "",
+        "price": "40₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Red Label",
+        "description": "",
+        "price": "70₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Hankey Bannister ",
+        "description": "",
+        "price": "56₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Jim Beam Cherry",
+        "description": "",
+        "price": "58₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Jim Beam Apple ",
+        "description": "",
+        "price": "58₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Jim Beam Honey ",
+        "description": "",
+        "price": "60₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Jameson ",
+        "description": "",
+        "price": "60₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Jack Daniels  ",
+        "description": "",
+        "price": "66₴",
+        "volume": "50мл"
       }
     ]
   },
   {
-    "categoryName": "Категория 2",
-    "categoryId": "cat-2",
+    "categoryName": "Ром",
+    "categoryId": "rum",
     "items": [
       {
-        "title": "Блюдо1",
-        "description": "Описание Блюда 1",
-        "price": "1111грн",
-        "volume": "1l"
+        "title": "Bacardi Carta Negra",
+        "description": "",
+        "price": "50₴",
+        "volume": "50мл"
       },
       {
-        "title": "Блюдо2",
-        "description": "Описание Блюда 2",
-        "price": "5грн",
-        "volume": "0.1ml"
+        "title": "Captain Morgan Original",
+        "description": "",
+        "price": "56₴",
+        "volume": "50мл"
       },
       {
-        "title": "Блюдо 3",
-        "description": "Описание Блюда 3",
-        "price": "505грн",
-        "volume": "0.66ml"
+        "title": "Captain Morgan Caribbean ",
+        "description": "",
+        "price": "50₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "OakHeart",
+        "description": "",
+        "price": "50₴",
+        "volume": "50мл"
+      },
+      {
+        "title": "Малибу ",
+        "description": "",
+        "price": "43₴",
+        "volume": "50мл"
       }
+      
     ]
   }
 ]
